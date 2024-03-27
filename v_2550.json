@@ -2,5 +2,16 @@
   "name": "Mecha Drop Prime #2550",
   "description": "Mecha Drop are 5000 self-contained unique NFT collections presents by Venom Drop on the Venom block chain.",
   "image": "https://ipfs.io/ipfs/bafybeibswfzzdtmmtazjpmeckysnu6cs2lx5nx4qaznad7tsq4zpkrytdy",
-  "attributes": []
-}
+  "attributes": [{
+                 "trait_type": "BACKGROUND",
+                 "value": "Green Hologram"
+           },
+           {
+                 "trait_type": "Mecha Monkey",
+                 "value": "The new milestones accomplishment"
+           },
+           {
+                 "trait_type": "VDROP",
+                 "value": "NFT Airdrop Platform on Venom Mainnet"
+           }
+      ]}
